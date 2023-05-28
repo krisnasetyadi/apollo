@@ -1,9 +1,11 @@
 Learn GraphQl Apollo Client
 
-Stacks :
+Stacks
 <ul>
-    <li>React<li>
-    <li>Graph Ql<li>
-    <li>NOde JS<li>
-    <li>My SQL<li>
+    <li>React JS</li>
+    <li>Node JS</li>
+    <li>Express JS</li>
+    <li>Graph Ql - Express GraphQl - Apollo Client</li>
+    <li>NOde JS</li>
+    <li>My SQL</li>
 </ul>
