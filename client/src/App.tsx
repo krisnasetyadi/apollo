@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { ApolloClient, InMemoryCache, ApolloProvider, useMutation } from "@apollo/client";
 import CreateUser from "./component/create-user";
+import ListOfUsers from "./component/list-queries";
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <div className="">
         asdasd
         <CreateUser />
+        <ListOfUsers />
       </div>
     </ApolloProvider>
     </div>
