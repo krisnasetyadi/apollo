@@ -8,4 +8,6 @@ Stacks
     <li>Graph Ql - Express GraphQl - Apollo Client</li>
     <li>NOde JS</li>
     <li>My SQL</li>
+    <li>TypeOrm</li>
+    <li>Typescript</li>
 </ul>

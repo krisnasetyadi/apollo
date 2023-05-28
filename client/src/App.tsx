@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import { ApolloClient, InMemoryCache, ApolloProvider, useMutation } from "@apollo/client";
 import CreateUser from "./component/create-user";
 import ListOfUsers from "./component/list-queries";
+import UpdatedPassword from "./component/update-password";
 
 function App() {
-
   const client = new ApolloClient({
     uri: 'http://localhost:3001/graphql',
     cache: new InMemoryCache()
@@ -16,6 +16,8 @@ function App() {
         asdasd
         <CreateUser />
         <ListOfUsers />
+        tesssss
+        <UpdatedPassword />
       </div>
     </ApolloProvider>
     </div>
